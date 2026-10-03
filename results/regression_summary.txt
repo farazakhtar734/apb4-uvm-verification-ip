@@ -1,0 +1,23 @@
+==================================================
+VERIFICATION REGRESSION SUMMARY REPORT
+==================================================
+TOTAL TESTS RUN : 10
+PASSED          : 10
+FAILED          : 0
+PASS RATE       : 100.0%
+EXECUTION TIME  : 0.07 seconds
+MASTER SEED     : 30992
+==================================================
+TEST NAME                 STATUS     SEED      
+--------------------------------------------------
+test_reset                PASSED     31027     
+test_register_write       PASSED     38115     
+test_register_read        PASSED     84408     
+test_fifo_basic           PASSED     89087     
+test_fifo_full            PASSED     9423      
+test_fifo_empty           PASSED     99567     
+test_fifo_overflow        PASSED     44985     
+test_fifo_underflow       PASSED     13897     
+test_irq                  PASSED     29324     
+test_unaligned_access     PASSED     96126     
+==================================================
