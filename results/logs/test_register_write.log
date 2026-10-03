@@ -1,0 +1,3 @@
+[REGRESSION HARNESS] Running TESTNAME=test_register_write with SEED=60450
+[REGRESSION STATUS] TESTNAME=test_register_write : PASSED
+/home/faraz/alpinum-junior-dv-project/tb/tb_regression.sv:223: $finish called at 225000 (1ps)

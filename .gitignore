@@ -1,0 +1,6 @@
+sim/
+sanity/
+*.vvp
+*.vcd
+*.orig
+__pycache__/

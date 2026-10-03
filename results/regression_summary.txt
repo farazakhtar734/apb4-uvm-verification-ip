@@ -5,19 +5,19 @@ TOTAL TESTS RUN : 10
 PASSED          : 10
 FAILED          : 0
 PASS RATE       : 100.0%
-EXECUTION TIME  : 0.07 seconds
-MASTER SEED     : 30992
+EXECUTION TIME  : 0.06 seconds
+MASTER SEED     : 31850
 ==================================================
 TEST NAME                 STATUS     SEED      
 --------------------------------------------------
-test_reset                PASSED     31027     
-test_register_write       PASSED     38115     
-test_register_read        PASSED     84408     
-test_fifo_basic           PASSED     89087     
-test_fifo_full            PASSED     9423      
-test_fifo_empty           PASSED     99567     
-test_fifo_overflow        PASSED     44985     
-test_fifo_underflow       PASSED     13897     
-test_irq                  PASSED     29324     
-test_unaligned_access     PASSED     96126     
+test_reset                PASSED     6551      
+test_register_write       PASSED     60450     
+test_register_read        PASSED     42872     
+test_fifo_basic           PASSED     35117     
+test_fifo_full            PASSED     39175     
+test_fifo_empty           PASSED     58604     
+test_fifo_overflow        PASSED     50598     
+test_fifo_underflow       PASSED     47074     
+test_irq                  PASSED     41842     
+test_unaligned_access     PASSED     64655     
 ==================================================

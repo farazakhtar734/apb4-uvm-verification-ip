@@ -1,0 +1,3 @@
+[REGRESSION HARNESS] Running TESTNAME=test_fifo_empty with SEED=58604
+[REGRESSION STATUS] TESTNAME=test_fifo_empty : PASSED
+/home/faraz/alpinum-junior-dv-project/tb/tb_regression.sv:223: $finish called at 195000 (1ps)

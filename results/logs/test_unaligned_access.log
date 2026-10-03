@@ -1,0 +1,3 @@
+[REGRESSION HARNESS] Running TESTNAME=test_unaligned_access with SEED=64655
+[REGRESSION STATUS] TESTNAME=test_unaligned_access : PASSED
+/home/faraz/alpinum-junior-dv-project/tb/tb_regression.sv:223: $finish called at 195000 (1ps)
